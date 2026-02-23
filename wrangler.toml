@@ -1,0 +1,9 @@
+# Cloudflare Pages configuration
+# This file is used if you deploy via `npx wrangler pages deploy`
+# For GitHub integration, configure build settings in the Cloudflare dashboard instead.
+
+name = "hcd-agile-ai"
+compatibility_date = "2025-02-01"
+
+[site]
+bucket = ".vitepress/dist"
