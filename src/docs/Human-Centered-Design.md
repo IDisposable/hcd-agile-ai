@@ -53,7 +53,7 @@ graph LR
     style I3 fill:#e1fff4
 ```
 
-### 1. Inspiration (Maps to: [Discovery](Process-Phases#phase-1-discover))
+### 1. Inspiration (Maps to: [Discovery](Process-Phases#phase-1-discovery))
 
 **Goal**: Understand the problem space and the people you're designing for.
 

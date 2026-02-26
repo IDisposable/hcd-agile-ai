@@ -28,7 +28,7 @@ graph LR
 
 ---
 
-## Phase 1: Discover
+## Phase 1: Discovery
 
 ### Objective
 
