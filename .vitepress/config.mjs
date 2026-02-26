@@ -19,10 +19,10 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Docs', link: '/docs/HCD-Agile-Overview' },
-      { text: 'Agent Prompts', link: '/Agent-Prompts/' },
+      { text: 'Docs', link: '/docs/hcd-agile-overview' },
+      { text: 'Agent Prompts', link: '/agent-prompts/' },
       { text: 'Knowledge Base', link: '/knowledge-base/' },
-      { text: 'Bootstrap', link: '/HCD-Agile-Bootstrap/' },
+      { text: 'Bootstrap', link: '/hcd-agile-bootstrap/' },
     ],
 
     sidebar: {
@@ -31,11 +31,11 @@ export default defineConfig({
           text: 'Documentation',
           items: [
             { text: 'Overview', link: '/docs/' },
-            { text: 'HCD Agile Overview', link: '/docs/HCD-Agile-Overview' },
-            { text: 'Human-Centered Design', link: '/docs/Human-Centered-Design' },
-            { text: 'Agile Integration', link: '/docs/Agile-Integration' },
-            { text: 'Process Phases', link: '/docs/Process-Phases' },
-            { text: 'Best Practices', link: '/docs/Best-Practices' },
+            { text: 'HCD Agile Overview', link: '/docs/hcd-agile-overview' },
+            { text: 'Human-Centered Design', link: '/docs/human-centered-design' },
+            { text: 'Agile Integration', link: '/docs/agile-integration' },
+            { text: 'Process Phases', link: '/docs/process-phases' },
+            { text: 'Best Practices', link: '/docs/best-practices' },
           ],
         },
         {
@@ -89,7 +89,7 @@ export default defineConfig({
           text: 'Knowledge Base',
           items: [
             { text: 'Overview', link: '/knowledge-base/' },
-            { text: 'Getting Started', link: '/knowledge-base/Getting-Started' },
+            { text: 'Getting Started', link: '/knowledge-base/getting-started' },
             { text: 'Index', link: '/knowledge-base/Index' },
           ],
         },
@@ -101,7 +101,7 @@ export default defineConfig({
             { text: '2. Define', link: '/knowledge-base/agents/phases/2-define' },
             { text: '3. Design', link: '/knowledge-base/agents/phases/3-design' },
             { text: '4. Develop', link: '/knowledge-base/agents/phases/4-develop' },
-            { text: '5. Deliver', link: '/knowledge-base/agents/phases/5-Deliver' },
+            { text: '5. Deliver', link: '/knowledge-base/agents/phases/5-deliver' },
           ],
         },
         {

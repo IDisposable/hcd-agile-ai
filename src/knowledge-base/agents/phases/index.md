@@ -143,7 +143,7 @@ There are five key phases in the HCD-Agile process: [Discovery](#phase-1-discove
 
 ### Phase 5: Deliver
 
-**File**: [`agents/phases/5-Deliver.md`](./5-Deliver)
+**File**: [`agents/phases/5-deliver.md`](./5-deliver)
 
 **Description**: Guidance for launching the solution, monitoring performance, and iterating based on real-world usage.
 

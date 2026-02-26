@@ -38,12 +38,12 @@ graph LR
     I3 -.-> P4
     I3 -.-> P5
 
-    %% Click Events (Navigate to Process-Phases.md)
-    click P1 "./Process-Phases.md#phase-1-discovery" "Go to Discovery Phase"
-    click P2 "./Process-Phases.md#phase-2-define" "Go to Define Phase"
-    click P3 "./Process-Phases.md#phase-3-design" "Go to Design Phase"
-    click P4 "./Process-Phases.md#phase-4-develop" "Go to Develop Phase"
-    click P5 "./Process-Phases.md#phase-5-deliver" "Go to Deliver Phase"
+    %% Click Events (Navigate to process-phases.md)
+    click P1 "./process-phases.md#phase-1-discovery" "Go to Discovery Phase"
+    click P2 "./process-phases.md#phase-2-define" "Go to Define Phase"
+    click P3 "./process-phases.md#phase-3-design" "Go to Design Phase"
+    click P4 "./process-phases.md#phase-4-develop" "Go to Develop Phase"
+    click P5 "./process-phases.md#phase-5-deliver" "Go to Deliver Phase"
 
     %% Styling
     style IDEO fill:#f9f9f9,stroke:#333,stroke-width:2px
@@ -53,7 +53,7 @@ graph LR
     style I3 fill:#e1fff4
 ```
 
-### 1. Inspiration (Maps to: [Discovery](Process-Phases#phase-1-discovery))
+### 1. Inspiration (Maps to: [Discovery](process-phases#phase-1-discovery))
 
 **Goal**: Understand the problem space and the people you're designing for.
 
@@ -74,7 +74,7 @@ graph LR
 - Problem statements
 - Opportunity areas
 
-### 2. Ideation (Maps to: [Define](Process-Phases#phase-2-define) & [Design](Process-Phases#phase-3-design))
+### 2. Ideation (Maps to: [Define](process-phases#phase-2-define) & [Design](process-phases#phase-3-design))
 
 **Goal**: Generate a wide range of possible solutions.
 
@@ -93,7 +93,7 @@ graph LR
 - Tested and refined designs
 - Selected direction for development
 
-### 3. Implementation (Maps to: [Develop](Process-Phases#phase-4-develop) & [Deliver](Process-Phases#phase-5-deliver))
+### 3. Implementation (Maps to: [Develop](process-phases#phase-4-develop) & [Deliver](process-phases#phase-5-deliver))
 
 **Goal**: Build the solution and validate it with real users.
 

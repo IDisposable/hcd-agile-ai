@@ -37,7 +37,7 @@ This repository provides a meta-framework for implementing Human-Centered Design
 
 ## About HCD Agile
 
-[HCD Agile](docs/HCD-Agile-Overview) is a methodology that combines Human-Centered Design (HCD) principles with Agile development practices. This approach ensures that software products are built efficiently and iteratively while meeting the real needs of users through continuous research, testing, and validation.
+[HCD Agile](docs/hcd-agile-overview) is a methodology that combines Human-Centered Design (HCD) principles with Agile development practices. This approach ensures that software products are built efficiently and iteratively while meeting the real needs of users through continuous research, testing, and validation.
 
 ### Key Principles
 
@@ -63,11 +63,11 @@ Learn more in the [knowledge-base ReadMe](knowledge-base/).
 
 Explore the comprehensive guides to understand and implement HCD Agile:
 
-- **[HCD Agile Overview](docs/HCD-Agile-Overview)** - Introduction to HCD Agile methodology, core principles, and benefits.
-- **[Human-Centered Design Principles](docs/Human-Centered-Design)** - Deep dive into HCD phases, tools, and techniques.
-- **[Agile Integration](docs/Agile-Integration)** - How to integrate HCD practices into Agile ceremonies and workflows.
-- **[Process Phases](docs/Process-Phases)** - Detailed breakdown of the four main phases: Discover, Design, Develop, and Deliver.
-- **[Best Practices and Tools](docs/Best-Practices)** - Practical guidance, recommended tools, templates, and quick wins.
+- **[HCD Agile Overview](docs/hcd-agile-overview)** - Introduction to HCD Agile methodology, core principles, and benefits.
+- **[Human-Centered Design Principles](docs/human-centered-design)** - Deep dive into HCD phases, tools, and techniques.
+- **[Agile Integration](docs/agile-integration)** - How to integrate HCD practices into Agile ceremonies and workflows.
+- **[Process Phases](docs/process-phases)** - Detailed breakdown of the four main phases: Discover, Design, Develop, and Deliver.
+- **[Best Practices and Tools](docs/best-practices)** - Practical guidance, recommended tools, templates, and quick wins.
 - **[Review the Guides](docs/guides/)** - How-to guides and instructions.
 - **[Use the Templates](docs/templates/)** - Reusable document templates.
 - **[HCD-Agile-Bootstrap](HCD-Agile-Bootstrap/)** - Reusable Markdown templates that guide AI interactions through HCD Agile phases.

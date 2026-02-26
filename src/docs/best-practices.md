@@ -257,7 +257,7 @@ description: "**Why**: Assumptions are expensive. Validating early prevents cost
 
 #### Interview Guide Template
 
-[View full template](./templates/Interview-Guide-Template)
+[View full template](./templates/interview-guide-template)
 
 ```markdown
 ## Objective
@@ -289,7 +289,7 @@ description: "**Why**: Assumptions are expensive. Validating early prevents cost
 
 #### Persona Template
 
-[View full template](./templates/Persona-Template)
+[View full template](./templates/persona-template)
 
 ```markdown
 ## [Persona Name]
@@ -328,7 +328,7 @@ description: "**Why**: Assumptions are expensive. Validating early prevents cost
 
 #### User Story with HCD
 
-[View full template](./templates/User-Story-HCD-Template)
+[View full template](./templates/user-story-hcd-template)
 
 ```markdown
 **As a** [persona name/role],
@@ -355,7 +355,7 @@ description: "**Why**: Assumptions are expensive. Validating early prevents cost
 
 #### Design Decision Log
 
-[View full template](./templates/Design-Decision-Log-Template)
+[View full template](./templates/design-decision-log-template)
 
 ```markdown
 ## Decision: [Short title]

@@ -346,4 +346,4 @@ Run discovery/design in parallel with development:
 
 ---
 
-*This document describes best practices for integrating [Human-Centered Design](./Human-Centered-Design) with Agile development methodologies.*
+*This document describes best practices for integrating [Human-Centered Design](./human-centered-design) with Agile development methodologies.*

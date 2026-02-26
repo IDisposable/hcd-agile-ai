@@ -71,7 +71,7 @@ To implement HCD Agile in your organization:
 
 For more detailed information, see:
 
-- [Human-Centered Design Principles](./Human-Centered-Design)
-- [Agile Integration](./Agile-Integration)
-- [HCD Agile Process Phases](./Process-Phases)
-- [Best Practices and Tools](./Best-Practices)
+- [Human-Centered Design Principles](./human-centered-design)
+- [Agile Integration](./agile-integration)
+- [HCD Agile Process Phases](./process-phases)
+- [Best Practices and Tools](./best-practices)

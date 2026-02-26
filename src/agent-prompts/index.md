@@ -91,7 +91,7 @@ Once loaded, start working on your specific HCD phase. The AI will provide guida
 - Agile sprint constraints
 - Your current phase
 
-📚 **[Read the full usage guide](Guides)** for detailed instructions.
+📚 **[Read the full usage guide](guides)** for detailed instructions.
 
 ### The HCD-Agile Process
 
@@ -209,7 +209,7 @@ Detailed prompt patterns for:
 
 ## Main Index
 
-For a comprehensive overview of all platforms and the HCD-Agile process, see **[GUIDES.md](Guides)**.
+For a comprehensive overview of all platforms and the HCD-Agile process, see **[GUIDES.md](guides)**.
 
 ## Example Usage Flow
 

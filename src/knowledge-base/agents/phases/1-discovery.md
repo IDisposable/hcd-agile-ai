@@ -195,9 +195,9 @@ You're ready to move to the Define phase when:
 
 **Templates**:
 
-- [Persona template](../templates/Persona-Template)
-- [Journey map template](../templates/User-Story-HCD-Template)
-- [Interview guide template](../templates/Interview-Guide-Template)
+- [Persona template](../templates/persona-template)
+- [Journey map template](../templates/user-story-hcd-template)
+- [Interview guide template](../templates/interview-guide-template)
 
 ---
 

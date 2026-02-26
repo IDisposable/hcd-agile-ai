@@ -7,7 +7,7 @@ description: "This repository contains a collection of Agent.MD files designed t
 
 This repository contains a collection of Agent.MD files designed to bootstrap AI agents for projects following the Human-Centered Design (HCD) with Agile methodology.
 
-**New to Agent.MD files?** Start with the [Getting Started Guide](Getting-Started) for a quick introduction.
+**New to Agent.MD files?** Start with the [Getting Started Guide](getting-started) for a quick introduction.
 
 ## What is an Agent.MD File?
 
@@ -43,7 +43,7 @@ The HCDAgile methodology follows five key phases:
 
 ## Quick Start
 
-1. **New to Agent.MD?** Read the [Getting Started Guide](./Getting-Started)
+1. **New to Agent.MD?** Read the [Getting Started Guide](./getting-started)
 2. **Review the phase-specific Agent.MD files** in [`agents/phases/`](./agents/phases
 3. **Use the template** in [`agents/templates/`](./agents/templateso create custom Agent.MD files
 4. **See examples** in `agents/examples/` for inspiration
@@ -54,7 +54,7 @@ The HCDAgile methodology follows five key phases:
 To add new Agent.MD files to this knowledge-base:
 
 1. Use the template structure
-2. Ensure alignment with [HCDAgile principles](../docs/HCD-Agile-Overview)
+2. Ensure alignment with [HCDAgile principles](../docs/hcd-agile-overview)
 3. Add clear, actionable guidance
 4. Update the [index.md](./ catalog
 
