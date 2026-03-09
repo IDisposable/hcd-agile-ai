@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
+import { withMermaid } from 'vitepress-plugin-mermaid'
 
-export default defineConfig({
+export default withMermaid(defineConfig({
   title: 'HCD Agile AI',
   description: 'Applying Human-Centered Design with Agile principles to AI Agents',
   srcDir: 'src',
@@ -145,7 +146,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2025 Turnberry Labs',
+      copyright: 'Copyright © 2026 Marc Brooks',
     },
 
     editLink: {
@@ -153,4 +154,4 @@ export default defineConfig({
       text: 'Edit this page on GitHub',
     },
   },
-})
+}))
